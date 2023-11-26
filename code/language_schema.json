@@ -1,0 +1,627 @@
+{
+    "es": {
+        "language": "Spanish",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.182242991,
+        "translate char ratio": 1.008009153,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "zh-cn": {
+        "language": "Chinese",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.62616822429907,
+        "translate char ratio": 1.04347826086957,
+        "audio transcribe": [
+        "deepgram",
+        "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "pt": {
+        "language": "Portuguese",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.205607477,
+        "translate char ratio": 1.027459954,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "de": {
+        "language": "German",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.271028037,
+        "translate char ratio": 1.091533181,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "fr": {
+        "language": "French",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.331775701,
+        "translate char ratio": 1.110983982,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "id": {
+        "language": "Indonesian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.364485981,
+        "translate char ratio": 1.147597254,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "base"
+    },
+    "no": {
+        "language": "Norwegian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.26635514,
+        "translate char ratio": 0.9977116705,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "sv": {
+        "language": "Swedish",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.303738318,
+        "translate char ratio": 1.036613272,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "gl": {
+        "language": "Galician",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.23364486,
+        "translate char ratio": 0.9393592677,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ms": {
+        "language": "Malay",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.392523364,
+        "translate char ratio": 1.139588101,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "nl": {
+        "language": "Dutch",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.355140187,
+        "translate char ratio": 1.02402746,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "af": {
+        "language": "Afrikaans",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.369158879,
+        "translate char ratio": 1.034324943,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "da": {
+        "language": "Danish",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.387850467,
+        "translate char ratio": 1.052631579,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "it": {
+        "language": "Italian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.341121495,
+        "translate char ratio": 0.9874141876,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "tl": {
+        "language": "Tagalog",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.38317757,
+        "translate char ratio": 1.016018307,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ca": {
+        "language": "Catalan",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.392523364,
+        "translate char ratio": 0.9908466819,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "pl": {
+        "language": "Polish",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.453271028,
+        "translate char ratio": 0.9851258581,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "tr": {
+        "language": "Turkish",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.457943925,
+        "translate char ratio": 0.9691075515,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "base"
+    },
+    "ru": {
+        "language": "Russian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 2.028037383,
+        "translate char ratio": 1.742562929,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "base"
+    },
+    "hu": {
+        "language": "Hungarian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.537383178,
+        "translate char ratio": 0.9839816934,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "bs": {
+        "language": "Bosnian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.481308411,
+        "translate char ratio": 0.9027459954,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "sw": {
+        "language": "Swahili",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.509345794,
+        "translate char ratio": 0.9221967963,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ro": {
+        "language": "Romanian",
+        "ai translate": false,
+        "embed translate": true,
+        "openai token ratio": 1.602803738,
+        "translate char ratio": 1.025171625,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "hr": {
+        "language": "Croatian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.523364486,
+        "translate char ratio": 0.9107551487,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "sl": {
+        "language": "Slovenian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.551401869,
+        "translate char ratio": 0.9359267735,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "sk": {
+        "language": "Slovak",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.58411215,
+        "translate char ratio": 0.9508009153,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "et": {
+        "language": "Estonian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.602803738,
+        "translate char ratio": 0.9622425629,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "fi": {
+        "language": "Finnish",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.714953271,
+        "translate char ratio": 1.073226545,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "mi": {
+        "language": "Maori",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.728971963,
+        "translate char ratio": 1.043478261,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "bg": {
+        "language": "Bulgarian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.107476636,
+        "translate char ratio": 1.534324943,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "en": {
+        "language": "English",
+        "ai translate": false,
+        "embed translate": false,
+        "openai token ratio": 1,
+        "translate char ratio": 1,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "nova"
+    },
+    "cs": {
+        "language": "Czech",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.700934579,
+        "translate char ratio": 0.9530892449,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "lt": {
+        "language": "Lithuanian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.747663551,
+        "translate char ratio": 0.942791762,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "cy": {
+        "language": "Welsh",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.817757009,
+        "translate char ratio": 1.030892449,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "mk": {
+        "language": "Macedonian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.252336449,
+        "translate char ratio": 1.6201373,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "uk": {
+        "language": "Ukrainian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.280373832,
+        "translate char ratio": 1.632723112,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "base"
+    },
+    "sr": {
+        "language": "Serbian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.261682243,
+        "translate char ratio": 1.541189931,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ja": {
+        "language": "Japanese",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.261682243,
+        "translate char ratio": 1.512585812,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "is": {
+        "language": "Icelandic",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.065420561,
+        "translate char ratio": 1.177345538,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "az": {
+        "language": "Azerbaijani",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.009345794,
+        "translate char ratio": 1.098398169,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "lv": {
+        "language": "Latvian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 1.962616822,
+        "translate char ratio": 1.033180778,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "be": {
+        "language": "Belarusian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.523364486,
+        "translate char ratio": 1.728832952,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ko": {
+        "language": "Korean",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.355140187,
+        "translate char ratio": 1.494279176,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "vi": {
+        "language": "Vietnamese",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.359813084,
+        "translate char ratio": 1.362700229,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ar": {
+        "language": "Arabic",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.387850467,
+        "translate char ratio": 1.392448513,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "fa": {
+        "language": "Persian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 2.53271028,
+        "translate char ratio": 1.514874142,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "th": {
+        "language": "Thai",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 3.331775701,
+        "translate char ratio": 2.419908467,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "kk": {
+        "language": "Kazakh",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 3.35046729,
+        "translate char ratio": 1.900457666,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "mr": {
+        "language": "Marathi",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 3.948598131,
+        "translate char ratio": 2.554919908,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "el": {
+        "language": "Greek",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 3.331775701,
+        "translate char ratio": 1.653318078,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "ne": {
+        "language": "Nepali",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 4.028037383,
+        "translate char ratio": 2.554919908,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "hi": {
+        "language": "Hindi",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 4.088785047,
+        "translate char ratio": 2.553775744,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "ta": {
+        "language": "Tamil",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 6.471962617,
+        "translate char ratio": 3.137299771,
+        "audio transcribe": [
+            "deepgram",
+            "whisper"
+        ],
+        "audio tier": "enhanced"
+    },
+    "kn": {
+        "language": "Kannada",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 7.322429907,
+        "translate char ratio": 2.800915332,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    },
+    "hy": {
+        "language": "Armenian",
+        "ai translate": true,
+        "embed translate": true,
+        "openai token ratio": 7.182242991,
+        "translate char ratio": 1.743707094,
+        "audio transcribe": [
+            "whisper"
+        ],
+        "audio tier": ""
+    }
+}
