@@ -24,8 +24,8 @@ The primary objective of this project was to create a versatile tool for AI, suc
    - Images: While not fully implemented due to the absence of OpenAI's multimodal GPT-4 at that time, there was potential for image embedding.
 
 5. **Semantic Search**: The project incorporated a semantic search mechanism using the embeddings generated in steps 3 and 4. This allowed the system to respond to various queries effectively. Queries answer contain:
-   1. Textual response to the answer
-   2. The context the AI used to answer the query
-   3. The source of the answer in the file (be it page or timestamp of a video)
+   - Textual response to the answer
+   - The context the AI used to answer the query
+   - The source of the answer in the file (be it page or timestamp of a video)
 
 The code was optimized to maximize information retrieval through semantic search while being mindful of token usage to manage AI costs efficiently. Please note that since the project is old, be aware that because this project is quite old, certain OpenAI components it relied on may no longer be supported or functional, which could affect the code's retrieval and execution
