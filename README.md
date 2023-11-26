@@ -1,22 +1,31 @@
-# OpenAI
+# OpenAI Project Overview
 
-## Quick Overview
-Extremely old project so I've forgotten how to run it now. But should be in embed_all.
+## Quick overview
+This project is many months old so I have forgotten how to run it and do not intend on doing so unless I wish to continue working on it in the future. 
 
-The project is to embed all type of files in all languages for semantic search and give AI like chatgpt to use for queries.
-- Talk to a FAQ of a company
-- Talk to a book
-- Talk to a video
+It aimed to enable embedding various types of files in multiple languages for semantic search purposes.
 
-## Steps
+The primary objective of this project was to create a versatile tool for AI, such as ChatGPT, to perform queries on a wide range of file types. Allow user to:
+- Interacting with a company's FAQ instantly without human help
+- Ask a video any questions without having to go through it yourself
+- Talk directly to a pdf so you can access an answer without having to go through it
 
-1. Take in most file types from text, images, audio, video, and website ~ 26
-2. Can understand around 50 languages given by language_schema.json
-3. Using smart vector embedding where text are split based on context rather than length
-4. Data in every filetypes may be embedded in 3 of the follow ways
-   1. Text - Text will be split based on context, paragraph, and length. Very difficult across many languages.
-   2. Table (dataframe) - each rows are embedded to be self contain. Each row having a text of their own and split like text if required
-   3. images (Couldn't do this fully since openAI hasn't release their multimodal GPT-4 yet, possible now)
-5. Using semantic search of the created memeory through embedding in step 3 and 4 to answer any queries.
+## Key steps of the code
 
-Code was optimized for the most information retrieval using semantic search while being mindful of tokens for the AI (cost).
+1. **File Type Handling**: The system was designed to process a variety of file types, including text, images, audio, video, and websites, totaling around 26 different formats.
+
+2. **Multilingual Capability**: It had the ability to understand approximately 50 languages, as specified in the "language_schema.json."
+
+3. **Smart Vector Embedding**: Utilizing a smart vector embedding technique, the project split text based on context rather than just length, making it more contextually aware. 
+
+4. **Data Embedding Methods**: Data within various file types was embedded in one of three ways:
+   - Text: Text was divided based on context, paragraphs, and length, which proved to be challenging across multiple languages.
+   - Table (Dataframe): Each row of tables was embedded independently, with each row having its own text, and text splitting was applied if necessary.
+   - Images: While not fully implemented due to the absence of OpenAI's multimodal GPT-4 at that time, there was potential for image embedding.
+
+5. **Semantic Search**: The project incorporated a semantic search mechanism using the embeddings generated in steps 3 and 4. This allowed the system to respond to various queries effectively. Queries answer contain:
+   1. Textual response to the answer
+   2. The context the AI used to answer the query
+   3. The source of the answer in the file (be it page or timestamp of a video)
+
+The code was optimized to maximize information retrieval through semantic search while being mindful of token usage to manage AI costs efficiently. Please note that since the project is old, be aware that because this project is quite old, certain OpenAI components it relied on may no longer be supported or functional, which could affect the code's retrieval and execution
