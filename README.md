@@ -1,7 +1,7 @@
 # OverproAI Project Overview
 
 ## Quick overview
-This project is many months old so I have forgotten how to run it and do not intend on doing so unless I wish to continue working on it in the future. 
+This project is old so I have forgotten how to run it. Though everything should be in embed_all. For all intended purposes this is what the code did:
 
 It aimed to enable embedding various types of files in multiple languages for semantic search purposes.
 
