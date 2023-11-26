@@ -1,11 +1,14 @@
 # OpenAI
 
+## Quick Overview
 Extremely old project so I've forgotten how to run it now. But should be in embed_all.
 
 The project is to embed all type of files in all languages for semantic search and give AI like chatgpt to use for queries.
 - Talk to a FAQ of a company
 - Talk to a book
 - Talk to a video
+
+## Steps
 
 1. Take in most file types from text, images, audio, video, and website ~ 26
 2. Can understand around 50 languages given by language_schema.json
